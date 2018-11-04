@@ -1,5 +1,5 @@
 # Portfolio-Thomas_Park
-Here are materials pertaining to coding projects authored by Thomas Park (mystifiedthomas at gmail dot com).
+Here are materials pertaining to the coding career of Thomas Park (mystifiedthomas at gmail dot com).
 
 Thomas' career objective is to pursue a career in web development, using his coding and computer science skills.
 
