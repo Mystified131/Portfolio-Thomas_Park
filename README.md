@@ -7,6 +7,6 @@ The links in the pdfs are not active here at GitHub-- to click through, you woul
 
 The Internet Archive Playlist Generator: http://mystified131.pythonanywhere.com/
 Global Free Audio: http://www.thomasparksolutions.com/
-The Internet Archive Visual Aggregator: http://www.thomasparksolutions2.com/
+Beehive: http://www.thomasparksolutions2.com/
 The Thomas Park Audio Explorer: http://www.thomasparksolutions3.com/
 Mixplant: http://www.thomasparksolutions4.com/
