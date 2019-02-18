@@ -6,7 +6,8 @@ I have an avid interest in pursuing a career in web development, use and mainten
 The links in the pdfs are not active here at GitHub-- to click through, you would have to download the documents and open them in a browser. So, here are some more direct links:
 
 The Internet Archive Playlist Generator: http://mystified131.pythonanywhere.com/
-Global Free Audio: http://www.thomasparksolutions.com/
-Beehive: http://www.thomasparksolutions2.com/
+Generative Soundscape Radio: http://www.thomasparksolutions.com/
+Piano Iterations: http://www.thomasparksolutions2.com/
 The Thomas Park Audio Explorer: http://www.thomasparksolutions3.com/
-Mixplant: http://www.thomasparksolutions4.com/
+Endless Dub Radio: http://www.thomasparksolutions4.com/
+IAVA Vision: http://www.thomasparksolutions5.com/
