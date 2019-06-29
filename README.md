@@ -10,7 +10,7 @@ Generative Soundscape Radio: http://www.thomasparksolutions.com/
 Piano Iterations: http://www.thomasparksolutions2.com/
 The Thomas Park Audio Explorer: http://www.thomasparksolutions3.com/
 Endless Dub Radio: http://www.thomasparksolutions4.com/
-IAVA Vision: http://www.thomasparksolutions5.com/
+All Gen Radio: http://www.thomasparksolutions5.com/
 Autonomous Outlands: http://www.thomasparksolutions6.com/
 The Heliades: http://www.thomasparksolutions7.com/
 Beat Butcher Radio: http://www.thomasparksolutions8.com/
