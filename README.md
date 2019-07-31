@@ -7,7 +7,7 @@ The links in the pdfs are not active here at GitHub-- to click through, you woul
 
 The Internet Archive Playlist Generator: http://mystified131.pythonanywhere.com/
 Generative Soundscape Radio: http://www.thomasparksolutions.com/
-Piano Iterations: http://www.thomasparksolutions2.com/
+The Reanimator: http://www.thomasparksolutions2.com/
 The Thomas Park Audio Explorer: http://www.thomasparksolutions3.com/
 Endless Dub Radio: http://www.thomasparksolutions4.com/
 All Gen Radio: http://www.thomasparksolutions5.com/
