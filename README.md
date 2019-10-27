@@ -7,9 +7,12 @@ The links in the pdfs are not active here at GitHub-- to click through, you woul
 
 The Internet Archive Playlist Generator: http://mystified131.pythonanywhere.com/
 The Generative/Iterative Jukebox: http://www.thomasparksolutions.com/
-Request Radio: http://www.thomasparksolutions2.com/
+The Reanimator: http://www.thomasparksolutions2.com/
 The Thomas Park Audio Explorer: http://www.thomasparksolutions3.com/
 Endless Dub Radio: http://www.thomasparksolutions4.com/
+Tracks By Thomas Park: http://www.thomasparksolutions5.com/
 Autonomous Outlands: http://www.thomasparksolutions6.com/
 The Heliades: http://www.thomasparksolutions7.com/
+Synthetic Sounds: http://www.thomasparksolutions8.com/
+Radio In C: http://www.thomasparksolutions9.com/
 
