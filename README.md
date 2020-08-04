@@ -5,11 +5,11 @@ I have an avid interest in pursuing a career in web development, use and mainten
 
 The links in the pdfs are not active here at GitHub-- to click through, you would have to download the documents and open them in a browser. So, here are some more direct links:
 
-Autonomous Outlands: http://mystified131.pythonanywhere.com/
+The Reanimator 2: http://mystified131.pythonanywhere.com/
 The Generative/Iterative Jukebox: http://www.thomasparksolutions.com/
 The Reanimator: http://www.thomasparksolutions2.com/
 Radio In C: http://www.thomasparksolutions3.com/
-Endless Dub Radio: http://www.thomasparksolutions4.com/
+The Reanimator 3: http://www.thomasparksolutions4.com/
 Oceans Between Sound: http://www.thomasparksolutions5.com/
 Park/Peccary Mood 1: http://www.thomasparksolutions6.com/
 Park/Peccary Mood 2: http://www.thomasparksolutions7.com/
