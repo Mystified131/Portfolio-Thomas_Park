@@ -8,7 +8,7 @@ The links in the pdfs are not active here at GitHub-- to click through, you woul
 The Reanimator 2: http://mystified131.pythonanywhere.com/
 The Generative/Iterative Jukebox: http://www.thomasparksolutions.com/
 The Reanimator: http://www.thomasparksolutions2.com/
-Radio In C: http://www.thomasparksolutions3.com/
+Generative Television: http://www.thomasparksolutions3.com/
 The Reanimator 3: http://www.thomasparksolutions4.com/
 Oceans Between Sound: http://www.thomasparksolutions5.com/
 Park/Peccary Mood 1: http://www.thomasparksolutions6.com/
