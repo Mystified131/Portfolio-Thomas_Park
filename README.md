@@ -7,7 +7,7 @@ The links in the pdfs are not active here at GitHub-- to click through, you woul
 
 The Reanimator 2: http://mystified131.pythonanywhere.com/
 BFF Stream: http://www.thomasparksolutions.com/
-The Reanimator: http://www.thomasparksolutions2.com/
+The GenerIter: http://www.thomasparksolutions2.com/
 Generative Television: http://www.thomasparksolutions3.com/
 Tracks By Thomas Park: http://www.thomasparksolutions4.com/
 Oceans Between Sound: http://www.thomasparksolutions5.com/
