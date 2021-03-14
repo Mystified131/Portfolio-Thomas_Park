@@ -13,6 +13,6 @@ Tracks By Thomas Park: http://www.thomasparksolutions4.com/
 Oceans Between Sound: http://www.thomasparksolutions5.com/
 Dream Filter: http://www.thomasparksolutions6.com/
 Rachel: http://www.thomasparksolutions7.com/
-The Hippie Jammer: http://www.thomasparksolutions8.com/
+West Coast Waves: http://www.thomasparksolutions8.com/
 The Heliades: http://www.thomasparksolutions9.com/
 
