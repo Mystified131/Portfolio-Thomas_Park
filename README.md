@@ -5,7 +5,7 @@ I have an avid interest in pursuing a career in web development, use and mainten
 
 The links in the pdfs are not active here at GitHub-- to click through, you would have to download the documents and open them in a browser. So, here are some more direct links:
 
-The Reanimator 2: http://mystified131.pythonanywhere.com/
+Endless Dub Generation: http://mystified131.pythonanywhere.com/
 BFF Stream: http://www.thomasparksolutions.com/
 The GenerIter: http://www.thomasparksolutions2.com/
 Generative Television: http://www.thomasparksolutions3.com/
